@@ -3,7 +3,7 @@
   <h1>
     Hi there 👋
   </h1>
-  <h3>Ripesh Khadka</h3>
+  <h3>Jeeban Giri</h3>
   <img src="https://jeeban-giri-8i8k.vercel.app/api/top-langs/?username=JeebanGiri&layout=compact&hide=java,html" alt="Top Languages">
 </div>
 <div id="badges">
