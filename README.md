@@ -4,7 +4,7 @@
     Hi there 👋<br>
     Jeeban Giri
   </h1>
-  <img src="https://jeeban-giri-8i8k.vercel.app/api/top-langs/?username=JeebanGiri&layout=compact&hide=java,html" alt="Top Languages">
+  
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/jeeban-giri-1b7a98251/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
