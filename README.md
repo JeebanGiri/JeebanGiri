@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there 👋
+    Hi there 👋<br>
     Jeeban Giri
   </h1>
   <img src="https://jeeban-giri-8i8k.vercel.app/api/top-langs/?username=JeebanGiri&layout=compact&hide=java,html" alt="Top Languages">
