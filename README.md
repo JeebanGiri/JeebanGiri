@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
+  <h2>
     <!--Hi there 👋<br> -->
     Jeeban Giri
-  </h1>
+  </h2>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=JeebanGiri&show_icons=true&theme=dark"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeebangiri&layout=compact&hide=java,html" alt="Top languages">
   <div id="badges">
