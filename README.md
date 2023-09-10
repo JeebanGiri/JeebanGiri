@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there 👋<br>
+    <!--Hi there 👋<br> -->
     Jeeban Giri
   </h1>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=JeebanGiri&show_icons=true&theme=dark"> -->
