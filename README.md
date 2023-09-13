@@ -5,7 +5,7 @@
     Jeeban Giri
   </h2>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=JeebanGiri&show_icons=true&theme=dark"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeebangiri&layout=compact&hide=java,html" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeebangiri&layout=compact&hide=java,html" alt="">
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/jeeban-giri-1b7a98251/">
